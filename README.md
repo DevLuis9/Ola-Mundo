@@ -4,10 +4,10 @@
         _**devdavi**_
  *Repositório do Curso em Video.*
 
- 2.davi
- 1.luis
- 1.dos
- 0.santos
+ 2. davi
+ 1. luis
+ 1. dos
+ 0. santos
 
 
 
