@@ -21,6 +21,7 @@
 ![Curso em Video](https://cursoemvideo.com/logo.png)
 
 Como **Steve Jobs** disse uma vez:
+
 > Decidir o que não fazer é tão
 > importante quanto decidir
 > o que fazer
@@ -28,5 +29,5 @@ Como **Steve Jobs** disse uma vez:
 Nome | Idade | Sexo | Nascimento
 :---: | :---: | :---: | :---:
 Davi | 18 | M | 25/10/2007
-Bruce | 19 | M | 23/04/05
+Bruce | 19 | M | 23/04/2005
 Daniela | 20 | F | 25/11/2003
