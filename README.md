@@ -4,7 +4,7 @@
         _**devdavi**_
  *Repositório do Curso em Video.*
 
- 2. davi
+ 1. davi
  1. luis
  1. dos
  0. santos
@@ -14,7 +14,7 @@
 ### Lista
 ---
  - [X] pão
- - [] Leite
+ - [ ] Leite
  - [X] Café
 
 #### com ajuda do curso:
